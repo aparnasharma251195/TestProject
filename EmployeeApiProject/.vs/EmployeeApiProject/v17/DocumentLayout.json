@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aparna.sharma\\source\\repos\\EmployeeApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36CB0C74-4B10-4739-B266-3D2F76686EAA}|EmployeeApiProject\\EmployeeApiProject.csproj|c:\\users\\aparna.sharma\\source\\repos\\employeeapiproject\\employeeapiproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CB0C74-4B10-4739-B266-3D2F76686EAA}|EmployeeApiProject\\EmployeeApiProject.csproj|solutionrelative:employeeapiproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CB0C74-4B10-4739-B266-3D2F76686EAA}|EmployeeApiProject\\EmployeeApiProject.csproj|c:\\users\\aparna.sharma\\source\\repos\\employeeapiproject\\employeeapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CB0C74-4B10-4739-B266-3D2F76686EAA}|EmployeeApiProject\\EmployeeApiProject.csproj|solutionrelative:employeeapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CB0C74-4B10-4739-B266-3D2F76686EAA}|EmployeeApiProject\\EmployeeApiProject.csproj|c:\\users\\aparna.sharma\\source\\repos\\employeeapiproject\\employeeapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36CB0C74-4B10-4739-B266-3D2F76686EAA}|EmployeeApiProject\\EmployeeApiProject.csproj|solutionrelative:employeeapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aparna.sharma\\source\\repos\\EmployeeApiProject\\EmployeeApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\aparna.sharma\\source\\repos\\EmployeeApiProject\\EmployeeApiProject\\Program.cs",
+              "RelativeToolTip": "EmployeeApiProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:59:24.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\aparna.sharma\\source\\repos\\EmployeeApiProject\\EmployeeApiProject\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeApiProject\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\aparna.sharma\\source\\repos\\EmployeeApiProject\\EmployeeApiProject\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeApiProject\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:56:26.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aparna.sharma\\source\\repos\\EmployeeApiProject\\EmployeeApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeApiProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\aparna.sharma\\source\\repos\\EmployeeApiProject\\EmployeeApiProject\\appsettings.json",
+              "RelativeToolTip": "EmployeeApiProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAC/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T06:46:30.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
